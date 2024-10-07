@@ -1,4 +1,4 @@
-replicate==0.33.0
+replicate==0.34.2
 python-dotenv==1.0.1
 token_count==0.2.1
 loguru==0.7.2
