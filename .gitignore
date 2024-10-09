@@ -157,3 +157,4 @@ cython_debug/
 
 *code-workspace
 settings.user.ini
+.aider*

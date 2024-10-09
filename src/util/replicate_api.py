@@ -8,7 +8,7 @@ from loguru import logger
 load_dotenv()
 
 
-class ImageGenerator:
+class Replicate_API:
     def __init__(self):
         self.replicate_model = None
         self.api_key = None
